@@ -27,6 +27,10 @@ function Checkout() {
       <div className="checkout_right">
         <Subtotal />
       </div>
+     
+
+
+
     </div>
   );
 }
